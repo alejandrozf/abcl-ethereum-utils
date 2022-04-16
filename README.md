@@ -4,7 +4,10 @@
 Some Ethereum utility functions using ABCL + Web3J library (WIP)
 
 
-## Getting started
+## Use
+
+Clone this repository to your Quicklisp local-projects folder:
+
 ```
 CL-USER> (require :abcl-contrib)
 NIL
